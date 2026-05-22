@@ -1,4 +1,4 @@
-# stop
-stop
-# do not touch me
-do not touch me
+# Fuck off
+Fuck you~
+# Shut up 
+Shut up
